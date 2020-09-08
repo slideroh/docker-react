@@ -1,3 +1,6 @@
+### Deployment - AWS
+Unfortunately, it is not possible to deploy to a student account AWS-Educate and AWS Elastic Beanstalk.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
